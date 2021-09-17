@@ -1,0 +1,46 @@
+#navegacion{
+    width: 100%;
+    background-color: blue;
+}
+
+#logo{
+    height: 40px;
+    width: 100px;
+}
+
+#btn_registroDeUsuarios{
+    background-color: blue;
+    color: aliceblue;
+    position: absolute;
+    right: 20px;
+    
+}
+
+/*#a_registroDeUsuarios{
+    
+}*/
+p{
+    text-align: justify;
+}
+
+#registrar_usuario_form{
+    width: 500px;
+}
+
+#nombre_usuario{
+    width: 100px;
+}
+
+#anoNacimiento_usuario{
+    width: 60px;
+} 
+
+#contrasena_usuario{
+    width: 100px;
+}
+
+#enviar_registro{
+    background-color: blue;
+    color: aliceblue;
+    
+}
